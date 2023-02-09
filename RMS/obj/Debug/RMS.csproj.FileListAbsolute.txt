@@ -1,0 +1,362 @@
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\RMS.dll.config
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\RMS.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\RMS.pdb
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\csc.exe
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\csc.exe.config
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\csc.rsp
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\csi.exe
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\csi.exe.config
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\csi.rsp
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\Microsoft.Managed.Core.targets
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.AppContext.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Collections.Immutable.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Console.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Globalization.Calendars.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.IO.Compression.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.IO.FileSystem.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Net.Http.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Net.Sockets.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Reflection.Metadata.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.ValueTuple.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Xml.XmlDocument.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Xml.XPath.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\vbc.exe
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\vbc.exe.config
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\vbc.rsp
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\VBCSCompiler.exe
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\roslyn\VBCSCompiler.exe.config
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.Core.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.Owin.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.Owin.Security.Cookies.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.Owin.Security.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.Owin.Security.OAuth.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Newtonsoft.Json.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Owin.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.Core.xml
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.Owin.xml
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.Owin.Security.xml
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.Owin.Security.Cookies.xml
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.Owin.Security.OAuth.xml
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Newtonsoft.Json.xml
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\obj\Debug\RMS.csproj.CopyComplete
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\obj\Debug\RMS.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\obj\Debug\RMS.pdb
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\EntityFramework.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\EntityFramework.SqlServer.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\EntityFramework.xml
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\EntityFramework.SqlServer.xml
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\6ASP-NET\Class_015\RMS_Solution\RMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\RMS.dll.config
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\RMS.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\RMS.pdb
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\csc.exe
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\csc.exe.config
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\csc.rsp
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\csi.exe
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\csi.exe.config
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\csi.rsp
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.AppContext.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Collections.Immutable.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Console.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Globalization.Calendars.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.IO.Compression.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.IO.FileSystem.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Net.Http.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Net.Sockets.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Reflection.Metadata.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.ValueTuple.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Xml.XPath.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\vbc.exe
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\vbc.exe.config
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\vbc.rsp
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\VBCSCompiler.exe
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\roslyn\VBCSCompiler.exe.config
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\EntityFramework.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\EntityFramework.SqlServer.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.Owin.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.Owin.Security.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Newtonsoft.Json.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Owin.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\EntityFramework.xml
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\EntityFramework.SqlServer.xml
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.Owin.xml
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.Owin.Security.xml
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Newtonsoft.Json.xml
+E:\Faruk\Class_16\RMS_Solution\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Faruk\Class_16\RMS_Solution\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+E:\Faruk\Class_16\RMS_Solution\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+E:\Faruk\Class_16\RMS_Solution\RMS\obj\Debug\RMS.csproj.CopyComplete
+E:\Faruk\Class_16\RMS_Solution\RMS\obj\Debug\RMS.dll
+E:\Faruk\Class_16\RMS_Solution\RMS\obj\Debug\RMS.pdb
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\RMS.dll.config
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\RMS.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\RMS.pdb
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\csc.exe
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\csc.exe.config
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\csc.rsp
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\csi.exe
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\csi.exe.config
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\csi.rsp
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.AppContext.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Console.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Net.Http.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\vbc.exe
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\vbc.exe.config
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\vbc.rsp
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\EntityFramework.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.Security.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Owin.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\EntityFramework.xml
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.xml
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.Security.xml
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\obj\Debug\RMS.csproj.CopyComplete
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\obj\Debug\RMS.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\obj\Debug\RMS.pdb
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\CrystalDecisions.Shared.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\CrystalDecisions.Web.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Desktop\1269216\RMS_Solution\RMS\bin\stdole.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\RMS.dll.config
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\RMS.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\RMS.pdb
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\csc.exe
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\csc.exe.config
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\csc.rsp
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\csi.exe
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\csi.exe.config
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\csi.rsp
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.Managed.Core.targets
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.AppContext.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Collections.Immutable.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Console.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Globalization.Calendars.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.IO.Compression.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.IO.FileSystem.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Net.Http.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Net.Sockets.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Reflection.Metadata.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.ValueTuple.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Xml.XmlDocument.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Xml.XPath.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\vbc.exe
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\vbc.exe.config
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\vbc.rsp
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\VBCSCompiler.exe
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\roslyn\VBCSCompiler.exe.config
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\CrystalDecisions.CrystalReports.Engine.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportSource.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\CrystalDecisions.Shared.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\CrystalDecisions.Web.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\EntityFramework.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\EntityFramework.SqlServer.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.Security.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Newtonsoft.Json.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Owin.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\stdole.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\EntityFramework.xml
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\EntityFramework.SqlServer.xml
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.xml
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.Security.xml
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Newtonsoft.Json.xml
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\obj\Debug\RMS.csproj.CopyComplete
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\obj\Debug\RMS.dll
+H:\Project all\Aspnet\1269216\RMS_Solution\RMS\obj\Debug\RMS.pdb

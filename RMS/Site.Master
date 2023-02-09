@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="RMS.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title><%: Page.Title %></title>
+      <script src="crystalreportviewers13/js/crviewer/crv.js"></script>
+    <link href="Content/bootstrap.css" rel="stylesheet" />
+    <script src="Scripts/jquery-3.4.1.js"></script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+
+</head>
+<body>
+    <form id="form1" runat="server">
+      
+        <asp:ScriptManager runat="server"></asp:ScriptManager>
+        <nav class="navbar navbar-expand-lg navbar-light bg-success text-white">
+            <div class="container-fluid">
+                <a class="navbar-brand text-white  " href="Default.aspx">Pizza Hut</a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse col" id="navbarNavAltMarkup">
+                    <div class="navbar-nav col-10">
+                        <a class="nav-link active text-white" href="Default.aspx"><i class="fa fa-Home"></i>Home</a>
+                        <a class="nav-link text-white" href="frmMenu.aspx">Menu</a>
+                         <a class="nav-link text-white" href="frmItem.aspx">Food Item</a>
+                        <a class="nav-link text-white" href="frmOrders.aspx">Orders</a>
+                         <a class="nav-link text-white" href="About.aspx">About</a>
+                        <a class="nav-link text-white" href="frmReportingItem.aspx">Food Item Report</a>
+                         <a class="nav-link text-white" href="frmContact.aspx">Contact Us</a>
+                    </div>
+                    <div class="navbar-nav col-2">
+                        <%
+                            if (Request.IsAuthenticated)
+                            {
+                        %>
+                        <a class="nav-link text-white " href="#">Hi <%=Page.User.Identity.Name %></a>
+                        <asp:LinkButton ID="logout" runat="server" CssClass="nav-link" OnClick="logout_Click">logout</asp:LinkButton>
+                        <%
+                            }
+                            else
+                            {
+                        %>
+                            <a class="nav-link text-white " href="frmRegister.aspx">Register</a>
+                            <a class="nav-link text-white " href="frmLogin.aspx">Login</a>
+                        <%
+                            }
+                        %>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <div>
+            <asp:ContentPlaceHolder ID="main" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <h1></h1>
+        <footer class="container-fluid fixed-bottom  bg-success text-white fw-semibold text-center p-1 ">
+                <p>&copy; 2022 Md Faruk  Hossain</p>
+        </footer>
+      
+    </form>
+    <asp:ContentPlaceHolder ID="footer" runat="server">
+       
+    </asp:ContentPlaceHolder>
+     
+    <script src="Scripts/bootstrap.js"></script>
+</body>
+</html>
